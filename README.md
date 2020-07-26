@@ -2,6 +2,8 @@
 
 ![Donghoon's github stats](https://github-readme-stats.vercel.app/api?username=Donghoon759&count_private=true?theme=radical&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Donghoon759&hide=jupyter%20notebook)](https://github.com/minkukjo/github-readme-stats)
+
 <!--
 **Donghoon759/Donghoon759** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
