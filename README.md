@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[Gitbook Link](https://thdehdgns.gitbook.io/road-to-frontend-master/)
+[Blog Link](https://donghoon-song.github.io)
 
 ![Donghoon's github stats](https://github-readme-stats.vercel.app/api?username=donghoon-song&count_private=true?theme=radical&show_icons=true&theme=vue)
 
